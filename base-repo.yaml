@@ -6,4 +6,4 @@ spec:
   repo: https://github.com/kshitijcode/kalypso-sharmaks-v12-control-plane
   branch: main
   path: .
-  commit: 66926420bc1bb0f4082c3a81bb3b923ae94e0b23
+  commit: 5a6bd53c720988fcf8b17713f5bd85c6ce6377ae
